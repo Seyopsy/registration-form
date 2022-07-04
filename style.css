@@ -135,6 +135,7 @@ input:focus {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    margin: auto;
   }
 
   #left_content {
